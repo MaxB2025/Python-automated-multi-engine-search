@@ -6,8 +6,8 @@ Setup procedure:
 Check whether you have installed python 3.12 or above if not sure. Use a command `python` in your terminal to see its current version on your device.
 
 ### Step 2:
-Install all necessary external python libraries which include:
-requests - `pip install requests`
+Install all necessary external python libraries which include:<br>
+requests - `pip install requests`<br>
 beautiful soup - `pip install beautifulsoup4`
 
 ### Step 3: 
