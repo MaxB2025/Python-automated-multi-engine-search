@@ -1,5 +1,5 @@
 # Python automated multi engine search
-Currently supports 2 search engines - Google and Yahoo.
+Currently supports 2 search engines - Google and Yahoo. <br>
 More coming soon.
 Setup procedure:
 
