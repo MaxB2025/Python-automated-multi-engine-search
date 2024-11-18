@@ -25,8 +25,8 @@ Remeber that Google has daily limits on amount of requests you can send. To make
 Yahoo search function uses web scrapping instead of API, so it does not have that problem. 
 
 ## References:
-Google developer console site - console.cloud.google.com
-Google programmable search engine site - programmablesearchengine.google.com
-Python requests documentation - requests.readthedocs.io/en/latest/
-Python beautiful soup documentation - www.crummy.com/software/BeautifulSoup/bs4/doc/#
-Automate Google search API with Python - www.youtube.com/watch?v=TddYMNVV14g<br>
+[Google developer console site](https://console.cloud.google.com)<br>
+[Google programmable search engine site](https://programmablesearchengine.google.com)<br>
+[Python requests documentation](https://requests.readthedocs.io/en/latest/)<br>
+[Python beautiful soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#)<br>
+[Automate Google search API with Python](https://www.youtube.com/watch?v=TddYMNVV14g)<br>
