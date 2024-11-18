@@ -29,4 +29,4 @@ Yahoo search function uses web scrapping instead of API, so it does not have tha
 [Google programmable search engine site](https://programmablesearchengine.google.com)<br>
 [Python requests documentation](https://requests.readthedocs.io/en/latest/)<br>
 [Python beautiful soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#)<br>
-[Automate Google search API with Python](https://www.youtube.com/watch?v=TddYMNVV14g)<br>
+[Automate Google search API with Python - YouTube](https://www.youtube.com/watch?v=TddYMNVV14g)<br>
